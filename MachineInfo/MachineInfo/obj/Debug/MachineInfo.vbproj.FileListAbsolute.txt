@@ -1,0 +1,11 @@
+C:\Users\timto\Documents\Visual Studio 2017\Projects\MachineInfo\MachineInfo\bin\Debug\MachineInfo.exe.config
+C:\Users\timto\Documents\Visual Studio 2017\Projects\MachineInfo\MachineInfo\bin\Debug\MachineInfo.exe
+C:\Users\timto\Documents\Visual Studio 2017\Projects\MachineInfo\MachineInfo\bin\Debug\MachineInfo.pdb
+C:\Users\timto\Documents\Visual Studio 2017\Projects\MachineInfo\MachineInfo\bin\Debug\MachineInfo.xml
+C:\Users\timto\Documents\Visual Studio 2017\Projects\MachineInfo\MachineInfo\obj\Debug\MachineInfo.vbprojResolveAssemblyReference.cache
+C:\Users\timto\Documents\Visual Studio 2017\Projects\MachineInfo\MachineInfo\obj\Debug\MachineInfo.Output.resources
+C:\Users\timto\Documents\Visual Studio 2017\Projects\MachineInfo\MachineInfo\obj\Debug\MachineInfo.Resources.resources
+C:\Users\timto\Documents\Visual Studio 2017\Projects\MachineInfo\MachineInfo\obj\Debug\MachineInfo.vbproj.GenerateResource.Cache
+C:\Users\timto\Documents\Visual Studio 2017\Projects\MachineInfo\MachineInfo\obj\Debug\MachineInfo.exe
+C:\Users\timto\Documents\Visual Studio 2017\Projects\MachineInfo\MachineInfo\obj\Debug\MachineInfo.xml
+C:\Users\timto\Documents\Visual Studio 2017\Projects\MachineInfo\MachineInfo\obj\Debug\MachineInfo.pdb
